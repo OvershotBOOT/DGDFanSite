@@ -1,0 +1,21 @@
+body {
+    background-image: url(Images/Afterburner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    text-align: center;
+    margin: auto;
+    background-color: #c9c5c5c7;
+    width: 45vw;
+}
+ul {
+    text-align: left;
+    width: 40%;
+    position:relative;
+    left: 40%;
+}
+img {
+    width: 25vw;
+    height: 50vh;
+}
